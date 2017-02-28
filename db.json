@@ -1,0 +1,47 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Jesse",
+      "last_name": "Soldat",
+      "email": "jesse@hotmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Sela",
+      "last_name": "Soldat",
+      "email": "sela@hotmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Marcia",
+      "last_name": "Soldat",
+      "email": "marica@hotmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Mark",
+      "last_name": "Soldat",
+      "email": "mark@hotmail.com"
+    },
+    {
+      "first_name": "Nate",
+      "last_name": "Soldat",
+      "email": "nate@hotmail.com",
+      "work": "The Beltline",
+      "id": 2
+    },
+    {
+      "first_name": "Akil",
+      "last_name": "Soldat",
+      "email": "akil@hotmail.com",
+      "id": 6
+    },
+    {
+      "first_name": "Zuhura",
+      "last_name": "Soldat",
+      "email": "zuhura@hotmail.com",
+      "id": 7
+    }
+  ]
+}
